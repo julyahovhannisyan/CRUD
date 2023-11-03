@@ -1,0 +1,17 @@
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.AssemblyInfo.cs
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\bin\Debug\net7.0\CRUD.BusinessLayer.deps.json
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\bin\Debug\net7.0\CRUD.BusinessLayer.runtimeconfig.json
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\bin\Debug\net7.0\CRUD.BusinessLayer.dll
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\bin\Debug\net7.0\CRUD.BusinessLayer.pdb
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\bin\Debug\net7.0\CRUD.DataAccessLayer.dll
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\bin\Debug\net7.0\CRUD.DataAccessLayer.pdb
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.csproj.CopyComplete
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.dll
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\refint\CRUD.BusinessLayer.dll
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.pdb
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\CRUD.BusinessLayer.genruntimeconfig.cache
+C:\Users\julya\projects\CRUD\CRUD.BusinessLayer\obj\Debug\net7.0\ref\CRUD.BusinessLayer.dll

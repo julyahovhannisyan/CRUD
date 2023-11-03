@@ -1,0 +1,14 @@
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\CRUD.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\CRUD.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\CRUD.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\CRUD.DataAccessLayer.AssemblyInfo.cs
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\CRUD.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\bin\Debug\net7.0\CRUD.DataAccessLayer.deps.json
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\bin\Debug\net7.0\CRUD.DataAccessLayer.runtimeconfig.json
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\bin\Debug\net7.0\CRUD.DataAccessLayer.dll
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\bin\Debug\net7.0\CRUD.DataAccessLayer.pdb
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\CRUD.DataAccessLayer.dll
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\refint\CRUD.DataAccessLayer.dll
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\CRUD.DataAccessLayer.pdb
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\CRUD.DataAccessLayer.genruntimeconfig.cache
+C:\Users\julya\projects\CRUD\CRUD.DataAccessLayer\obj\Debug\net7.0\ref\CRUD.DataAccessLayer.dll
